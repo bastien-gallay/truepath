@@ -1,5 +1,15 @@
 # truepath
 
+> [!IMPORTANT]
+> **This repository has moved.** `truepath` now lives in the
+> [bastien-gallay/skills](https://github.com/bastien-gallay/skills/tree/main/plugins/truepath) monorepo, under `plugins/truepath/`, with its full
+> history. This repository is archived and read-only.
+
+```sh
+/plugin marketplace add bastien-gallay/skills
+/plugin install truepath@skills
+```
+
 [![ci](https://github.com/bastien-gallay/truepath/actions/workflows/ci.yml/badge.svg)](https://github.com/bastien-gallay/truepath/actions/workflows/ci.yml)
 
 ![The free-shipping grid: the matrix of cases against answers, then a click
